@@ -1,0 +1,1 @@
+**Bu proje, JavaScript, HTML ve CSS kullanılarak oluşturulmuş bir To-Do List (Yapılacaklar Listesi) uygulamasıdır. Kullanıcılar, günlük görevlerini ekleyebilir, tamamlananları işaretleyebilir ve istemedikleri görevleri silebilir.**
